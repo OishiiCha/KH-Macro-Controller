@@ -3,6 +3,8 @@ This is a A/V project in the works. The price for this project will be between Â
 
 Please use Thonny to edit and deploy the code, the lib folder can be put directly onto the pico.
 
+On this GitHub there is an excel document named 'KH Macro code maker.xlsx' you can use to adjust the shortcuts and then paste the exported code
+
 <img src="https://user-images.githubusercontent.com/86476845/161326834-15bce7bf-9ff3-4d36-98bb-6cea5421728a.jpg" width="400">
 
 
