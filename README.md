@@ -16,14 +16,14 @@ On this GitHub there is an excel document named 'KH Macro code maker.xlsx' you c
 - 3D Printed Case
 
 ### Zoom Global Shortcuts:
-- R1 - Start/Stop Camera – (LEFT CONTROL, SHIFT, V)
-- R2 - Mute/Unmute Self – (LEFT CONTROL, SHIFT, Z)
-- R3 - Switch Camera – (LEFT CONTROL, SHIFT, N)
-- R4 - Mute/Unmute All – (LEFT CONTROL, SHIFT, L)
-- B1 - Start/Stop Screenshare – (LEFT CONTROL, SHIFT, Q)
-- B2 - Show/Hide Floating Cntrls – (LEFT CONTROL, SHIFT, P)
-- B3 - Chat – (LEFT CONTROL, SHIFT, C)
-- B4 - Participants List – (LEFT CONTROL, SHIFT, B)
+- R1 - Start/Stop Camera – (LEFT CONTROL, SHIFT, 1)
+- R2 - Switch Camera – (LEFT CONTROL, SHIFT, 2)
+- R3 - Mute/Unmute Self – (LEFT CONTROL, SHIFT, 3)
+- R4 - Mute/Unmute All – (LEFT CONTROL, SHIFT, 4)
+- B1 - Start/Stop Screenshare – (LEFT CONTROL, SHIFT, 5)
+- B2 - Show/Hide Floating Cntrls – (LEFT CONTROL, SHIFT, 6)
+- B3 - Chat – (LEFT CONTROL, SHIFT, 7)
+- B4 - Participants List – (LEFT CONTROL, SHIFT, 8)
 - G1 - NULL
 - G2 - NULL
 - G3 - NULL
