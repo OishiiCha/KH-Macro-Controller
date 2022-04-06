@@ -11,14 +11,14 @@ white = (255,255,255)
 black = (0,0,0)
 
 KEYBOARD_MAP = {
-    (0,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.V,),      # Start/Stop Video
-    (1,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.N,),      # Switch Camera
-    (2,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.Z,),      # Mute/Unmute Self
-    (3,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.L,),      # Mute/Unmute All
-    (0,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.Q,),      # Start/Stop Screenshare
-    (1,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.P,),      # Show/Hide Floating Controls
-    (2,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.C,),      # Chat Panel
-    (3,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.B,),      # Participant Panel
+    (0,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.1,),      # Start/Stop Video
+    (1,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.2,),      # Switch Camera
+    (2,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.3,),      # Mute/Unmute Self
+    (3,0): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.4,),      # Mute/Unmute All
+    (0,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.5,),      # Start/Stop Screenshare
+    (1,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.6,),      # Show/Hide Floating Controls
+    (2,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.7,),      # Chat Panel
+    (3,1): (Keycode.LEFT_CONTROL, Keycode.SHIFT, Keycode.8,),      # Participant Panel
     #(0,2): (Keycode.SHIFT, Keycode.E,),
     #(1,2): (Keycode.R,),
     #(2,2): (Keycode.E,),
